@@ -32,6 +32,10 @@ This is a community port, meaning that there is no official support and extensio
 8. `systemctl restart waydroid-container`
 9. open Waydroid from launcher, it should be working now.
 
+#### How to use docker
+
+https://github.com/sailfish-on-davinci/main/issues/19#issuecomment-3663276558
+
 ## Current state
 
 ### Working
